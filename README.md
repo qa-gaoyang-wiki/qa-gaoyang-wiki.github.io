@@ -1,3 +1,3 @@
-# gaoyangart.github.io
+# gaoyangwiki.github.io
 
 wiki文档
